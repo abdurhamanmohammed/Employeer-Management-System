@@ -1,0 +1,10 @@
+.loginPage{
+    background: url("../img/asd.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.loginForm{
+    background-color: rgba(1, 32, 93, 0.6);
+    color: white;
+}
